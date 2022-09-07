@@ -9,3 +9,6 @@ h1{
     width: 100px;
     border: 2px solid #000;
 }
+p{
+    color: blue;
+}
